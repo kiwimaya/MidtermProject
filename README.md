@@ -14,6 +14,8 @@ Create data visualization on Tableau
 # Results (visuals and metrics)
 Find a relation ships between property area size and prices
 Finding a correlation between locations and property area size
+Identified states with higher and lower prices
+Identified number of available properties per state
 
 # Conclusions (Challenges  and Future Goals)
 ## Challenges 
