@@ -5,10 +5,10 @@ team project_ week 07
 Help future buyers understand how sq meters and type of property impact price in their buying decisions.
 
 # Process (task and modeling)
-Preform EDA and cleaning steps
-Analyze the data and try to understand the trend.
-Modeling
-Create data visualization on Tableau
+- Preform EDA and cleaning steps
+- Analyze the data and try to understand the trend.
+- Modeling
+- Create data visualization on Tableau
 
 
 # Results (visuals and metrics)
